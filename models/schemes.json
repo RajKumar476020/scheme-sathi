@@ -1,0 +1,79 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM Kisan Samman Nidhi",
+    "description": "An initiative by the government of India in which all farmers will get up to ₹6,000 per year as minimum income support.",
+    "tags": ["Farmer", "Income Support", "Agriculture"],
+    "link": "https://pmkisan.gov.in/"
+  },
+  {
+    "id": "ayushman-bharat",
+    "name": "Ayushman Bharat PM-JAY",
+    "description": "A national public health insurance fund of the Government of India that aims to provide free access to health insurance coverage for low income earners.",
+    "tags": ["Health", "Insurance", "BPL"],
+    "link": "https://pmjay.gov.in/"
+  },
+  {
+    "id": "pm-awas-yojana",
+    "name": "PM Awas Yojana",
+    "description": "An initiative to provide affordable housing for the urban and rural poor.",
+    "tags": ["Housing", "Urban", "Rural"],
+    "link": "https://pmaymis.gov.in/"
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana",
+    "description": "A government of India backed saving scheme targeted at the parents of girl children.",
+    "tags": ["Girl Child", "Savings", "Education"],
+    "link": "https://www.nsiindia.gov.in/InternalPage.aspx?Id_Pk=89"
+  },
+  {
+    "id": "stand-up-india",
+    "name": "Stand-Up India",
+    "description": "Facilitates bank loans between ₹10 lakh and ₹1 Crore to at least one SC or ST borrower and at least one woman borrower per bank branch.",
+    "tags": ["Business", "SC/ST", "Women", "Loan"],
+    "link": "https://www.standupmitra.in/"
+  },
+  {
+    "id": "mudra-loan",
+    "name": "Mudra Loan Scheme",
+    "description": "Provides loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises.",
+    "tags": ["Business", "Loan", "Micro Enterprise"],
+    "link": "https://www.mudra.org.in/"
+  },
+  {
+    "id": "pm-vishwakarma",
+    "name": "PM Vishwakarma",
+    "description": "Supports traditional artisans and craftspeople of rural and urban India.",
+    "tags": ["Artisans", "Skill", "Loan"],
+    "link": "https://pmvishwakarma.gov.in/"
+  },
+  {
+    "id": "e-shram",
+    "name": "E-Shram",
+    "description": "A national database of unorganized workers for providing social security benefits.",
+    "tags": ["Workers", "Social Security", "Unorganized Sector"],
+    "link": "https://eshram.gov.in/"
+  },
+  {
+    "id": "nsp",
+    "name": "National Scholarship Portal",
+    "description": "One-stop solution through which various services starting from student application, application receipt, processing, sanction and disbursal of various scholarships to Students are enabled.",
+    "tags": ["Student", "Scholarship", "Education"],
+    "link": "https://scholarships.gov.in/"
+  },
+  {
+    "id": "pmegp",
+    "name": "PMEGP",
+    "description": "Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme aimed at generating self-employment opportunities.",
+    "tags": ["Employment", "Business", "Subsidy"],
+    "link": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp"
+  },
+  {
+    "id": "atal-pension",
+    "name": "Atal Pension Yojana",
+    "description": "A pension scheme for citizens of India focused on the unorganized sector workers.",
+    "tags": ["Pension", "Unorganized Sector", "Senior Citizen"],
+    "link": "https://www.pfrda.org.in/"
+  }
+]
