@@ -14,12 +14,13 @@ app.use(helmet({
   contentSecurityPolicy: {
     directives: {
       "default-src": ["'self'"],
-      "script-src": ["'self'", "'unsafe-inline'", "https://cdn.tailwindcss.com", "https://cdnjs.cloudflare.com", "https://fonts.googleapis.com"],
-      "script-src-elem": ["'self'", "'unsafe-inline'", "https://cdn.tailwindcss.com", "https://cdnjs.cloudflare.com", "https://fonts.googleapis.com"],
+      "script-src": ["'self'", "'unsafe-inline'", "https://cdn.tailwindcss.com", "https://cdnjs.cloudflare.com", "https://fonts.googleapis.com", "https://pagead2.googlesyndication.com", "https://*.googlesyndication.com", "https://*.doubleclick.net"],
+      "script-src-elem": ["'self'", "'unsafe-inline'", "https://cdn.tailwindcss.com", "https://cdnjs.cloudflare.com", "https://fonts.googleapis.com", "https://pagead2.googlesyndication.com", "https://*.googlesyndication.com", "https://*.doubleclick.net"],
       "style-src": ["'self'", "'unsafe-inline'", "https://cdnjs.cloudflare.com", "https://fonts.googleapis.com"],
       "style-src-elem": ["'self'", "'unsafe-inline'", "https://cdnjs.cloudflare.com", "https://fonts.googleapis.com"],
       "font-src": ["'self'", "https://fonts.gstatic.com", "https://cdnjs.cloudflare.com"],
-      "img-src": ["'self'", "data:"],
+      "img-src": ["'self'", "data:", "https://pagead2.googlesyndication.com", "https://*.googlesyndication.com", "https://*.doubleclick.net"],
+      "frame-src": ["'self'", "https://*.googlesyndication.com", "https://*.doubleclick.net"],
       "connect-src": ["'self'"],
     },
   },
